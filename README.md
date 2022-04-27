@@ -11,6 +11,6 @@ $ git clone https://github.com/Hunter-alamin/FLAME.git
 
 $ cd FLAME
 
-$ chmod +x FLAME
+$ python Flame.py
 
-$ ./FLAME
+Only 64 bit for now Wait I will upload 32 bit also
